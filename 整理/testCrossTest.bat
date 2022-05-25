@@ -1,0 +1,62 @@
+rem python testCrossTest.py --flooder marge_CRNN_BINARY
+rem python testCrossTest.py --flooder marge_CRNN_TYPE1
+rem python testCrossTest.py --flooder marge_CRNN_RGB
+rem python testCrossTest.py --flooder marge_dataColor.CRNN_RGB
+rem python testCrossTest.py --flooder marge_RARE_BINARY
+rem python testCrossTest.py --flooder marge_RARE_TYPE1
+rem python testCrossTest.py --flooder marge_RARE_RGB
+rem python testCrossTest.py --flooder marge_dataColor.RARE_RGB
+rem python testCrossTest.py --flooder marge_Rosetta_BINARY
+rem python testCrossTest.py --flooder marge_RosettaTYPE1
+rem python testCrossTest.py --flooder marge_Rosetta_RGB
+rem python testCrossTest.py --flooder marge_dataColor.Rosetta_RGB
+rem python testCrossTest.py --flooder marge_STARNet_BINARY
+rem python testCrossTest.py --flooder marge_STARNet_TYPE1
+rem python testCrossTest.py --flooder marge_STARNet_RGB
+rem python testCrossTest.py --flooder marge_dataColor.STARNet_RGB
+rem python testCrossTest.py --flooder marge_dataColor.NoneResNetBiLSTMCTC_RGB
+rem python testCrossTest.py --flooder marge_vote_RGB
+
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_CRNN_BINARY
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_CRNN_TYPE1
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_CRNN_RGB
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_dataColor.CRNN_RGB
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_RARE_BINARY
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_RARE_TYPE1
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_RARE_RGB
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_dataColor.RARE_RGB
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_Rosetta_BINARY
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_RosettaTYPE1
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_Rosetta_RGB
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_dataColor.Rosetta_RGB
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_STARNet_BINARY
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_STARNet_TYPE1
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_STARNet_RGB
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_dataColor.STARNet_RGB
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_dataColor.NoneResNetBiLSTMCTC_RGB
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_vote_RGB
+
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_CRNN_BINARY
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_CRNN_TYPE1
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_CRNN_RGB
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_dataColor.CRNN_RGB
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_RARE_BINARY
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_RARE_TYPE1
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_RARE_RGB
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_dataColor.RARE_RGB
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_Rosetta_BINARY
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_RosettaTYPE1
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_Rosetta_RGB
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_dataColor.Rosetta_RGB
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_STARNet_BINARY
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_STARNet_TYPE1
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_STARNet_RGB
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_dataColor.STARNet_RGB
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_dataColor.NoneResNetBiLSTMCTC_RGB
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_vote_RGB
+
+rem python testCrossTest.py --flooder marge_vote2_RGB
+rem python testCrossTest.py --flooder yolo-Result-best-rulebase_vote2_RGB
+rem python testCrossTest.py --flooder unet-Result-best-rulebase_vote2_RGB
+
+pause

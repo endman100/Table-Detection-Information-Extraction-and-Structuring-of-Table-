@@ -1,0 +1,8 @@
+﻿  正在產生程式碼
+c:\users\endman100\desktop\darknet-master\src\gemm.c(1883): warning C4752: 找到 Intel(R) Advanced Vector Extensions; 請考慮使用 /arch:AVX
+  283 of 4055 functions ( 7.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    114 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  darknet.vcxproj -> C:\Users\endman100\Desktop\darknet-master\build\darknet\x64\darknet.exe
+  darknet.vcxproj -> C:\Users\endman100\Desktop\darknet-master\build\darknet\x64\darknet.pdb (Full PDB)
